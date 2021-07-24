@@ -4,8 +4,8 @@ could be used for any projects.
 written by amjoshaghani
 
 usage:
-LoggerInstance.log(<text>, <place>
-LoggerInstance.error(<text>, <place>))
+LoggerInstance.log(<text>, <place>)
+LoggerInstance.error(<text>, <place>)
 LoggerInstance.warning(<text>, <place>)
 """
 
