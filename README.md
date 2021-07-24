@@ -3,9 +3,11 @@ VPD - Video Playlist Downloader.
 
 # Usage
 this script could help you for downloading blob videos
-you use network tools in your browser, search for .m3u8 extension and download it 
+<br>
+you use network tools in your browser, search for .m3u8 extension and download it
+<br>
 then copy url path of one those videos (which loaded in that page, you can find on developer tools too) and 
-download videos by this script :)
+download videos using this script :)
 
 - first clone repo (of course)
 - then run ./main.py with following arguments:
