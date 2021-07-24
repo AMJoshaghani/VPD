@@ -9,3 +9,6 @@ VPD - Video Playlist Downloader.
 ```bash
 python main.py playlist.m3u8 https://static.example.com
 ```
+
+# How to combine files to one?
+follow (this question)[https://superuser.com/questions/692990/use-ffmpeg-copy-codec-to-combine-ts-files-into-a-single-mp4/693009] for .ts files. it's not hard
